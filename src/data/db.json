@@ -1,22 +1,22 @@
 {
-    "Tasks":[
-        {
-            "id": 1,
-            "text": "Meeting at Collage",
-            "day": "12th January 2019 1:20pm",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Shopping at Plaza",
-            "day": "23th July 2019 10:11am",
-            "reminder": false
-        },
-        {
-            "id": 3,
-            "text": "Do Soldering job",
-            "day": "3rd September 2020 5:20pm",
-            "reminder": true
-        }
-    ]
+  "Tasks": [
+    {
+      "id": 1,
+      "text": "Meeting at Collage",
+      "day": "12th January 2019 1:20pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Shopping at Plaza",
+      "day": "23th July 2019 10:11am",
+      "reminder": false
+    },
+    {
+        "id": 3,
+        "text": "Do Soldering job",
+        "day": "3rd September 2020 5:20pm",
+        "reminder": true
+    }
+  ]
 }
