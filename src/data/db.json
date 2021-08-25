@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-        "id": 3,
-        "text": "Do Soldering job",
-        "day": "3rd September 2020 5:20pm",
-        "reminder": true
+      "id": 3,
+      "text": "Do Soldering job",
+      "day": "3rd September 2020 5:20pm",
+      "reminder": true
     }
   ]
 }
